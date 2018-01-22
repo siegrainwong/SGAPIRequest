@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.6.0)
+  - AwesomeCache (5.0)
+  - HandyJSON (1.8.0)
+  - Moya (10.0.1):
+    - Moya/Core (= 10.0.1)
+  - Moya/Core (10.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - PromiseKit (4.5.1):
+    - PromiseKit/Foundation (= 4.5.1)
+    - PromiseKit/QuartzCore (= 4.5.1)
+    - PromiseKit/UIKit (= 4.5.1)
+  - PromiseKit/CorePromise (4.5.1)
+  - PromiseKit/Foundation (4.5.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (4.5.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (4.5.1):
+    - PromiseKit/CorePromise
+  - Result (3.2.4)
+
+DEPENDENCIES:
+  - AwesomeCache (~> 5.0)
+  - HandyJSON (~> 1.8.0)
+  - Moya (~> 10.0.1)
+  - PromiseKit (~> 4.3)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  AwesomeCache: d8906955242173357caa0be0214d5e77dec32cc5
+  HandyJSON: edaaa3278bf4c4c96d6f7382b80d6b91c88d3bf5
+  Moya: 9e621707ff754eeb51ff3ec51a3d54e517c0733a
+  PromiseKit: 445dac9b2c3c3b4b31b5f842bc325700b848a8bd
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+
+PODFILE CHECKSUM: cea463a06aeb0fc057868db71784b670b51d089d
+
+COCOAPODS: 1.3.1
